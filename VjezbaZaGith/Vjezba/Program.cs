@@ -10,6 +10,7 @@ namespace Vjezba
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
